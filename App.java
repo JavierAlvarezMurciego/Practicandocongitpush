@@ -5,6 +5,7 @@ public class App {
     System.out.println("4/11/2021");
     System.out.println("León");
     System.out.println("León ciudad");
+    System.out.println("rojo");
  }
   
 }
